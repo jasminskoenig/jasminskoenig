@@ -3,6 +3,7 @@
 I'm currently a doctoral researcher in Political Science at the University of Hamburg. I'll finish my PhD in the end of this spring and I'm looking for new challenges and tasks where I can use the skills I've learned in the last years. 
 
 **What I love to do**   
+
 🕵🏻‍♀️ Searching for Patterns in Data   
 📈 Thinking about statistical ways to analyze whether these patterns tell a true story   
 📊 Finding beautiful ways to tell these stories   
