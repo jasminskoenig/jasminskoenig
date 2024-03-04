@@ -2,11 +2,11 @@
 
 I'm currently a doctoral researcher in Political Science at the University of Hamburg. I'll finish my PhD in the end of this spring and I'm looking for new challenges and tasks where I can use the skills I've learned in the last years. 
 
-**What I love to do**
-🕵🏻‍♀️ Searching for Patterns in Data
-📈 Thinking about statistical ways to analyze whether these patterns tell a true story
-📊 Finding beautiful ways to tell these stories
-👨‍💻👩🏾‍💻👨🏼‍💻 And most of all, I love doing all of this in a team
+**What I love to do**   
+🕵🏻‍♀️ Searching for Patterns in Data   
+📈 Thinking about statistical ways to analyze whether these patterns tell a true story   
+📊 Finding beautiful ways to tell these stories   
+👨‍💻👩🏾‍💻👨🏼‍💻 And most of all, I love doing all of this in a team   
 
 **If you are here because you are thinking about hiring me**
 - My [current project](https://github.com/jasminskoenig/constitutional-regression-advanced) shows some of my most up-to-date skills in data wrangling and statistical analysis. In these papers, we analyze the effects of populists in power on courts and constitutions across countries in Europe and Latin America.
