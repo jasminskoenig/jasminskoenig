@@ -10,6 +10,7 @@ I'm currently a doctoral researcher in Political Science at the University of Ha
 👨‍💻👩🏾‍💻👨🏼‍💻 And most of all, I love doing all of this in a team   
 
 **If you are here because you are thinking about hiring me**
+
 All of these projects are still on-going so the code still changes frequently.
 
 - My [current project](https://github.com/jasminskoenig/constitutional-regression-advanced) shows some of my most up-to-date skills in data wrangling and statistical analysis. In these papers, we analyze the effects of populists in power on courts and constitutions across countries in Europe and Latin America. It's a co-authored paper but in the current state all code is written by me.
