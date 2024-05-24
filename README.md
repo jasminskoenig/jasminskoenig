@@ -5,7 +5,7 @@ I'm currently a doctoral researcher in Political Science at the University of Ha
 **What I love to do**   
 
 🕵🏻‍♀️ Searching for patterns in data   
-📈 Thinking about statistical ways to analyze whether these patterns tell a true story   
+📈 Thinking about statistical ways to analyze whether these patterns actually tell a story
 📊 Finding beautiful ways to tell these stories   
 👨‍💻👩🏾‍💻👨🏼‍💻 And most of all, I love doing all of this in a team   
 
