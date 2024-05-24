@@ -13,8 +13,8 @@ I'm currently a doctoral researcher in Political Science at the University of Ha
 
 All of these projects are still on-going so the code still changes frequently.
 
-- My [current project](https://github.com/jasminskoenig/constitutional-regression-advanced) shows some of my most up-to-date skills in data wrangling and statistical analysis. In these papers, we analyze the effects of populists in power on courts and constitutions across countries in Europe and Latin America. It's a co-authored paper but in the current state all code is written by me.
-- My latest [scraping project](https://github.com/jasminskoenig/standard_clean) assembled all articles mentioning the Austrian justice system in the newspaper Der Standard. In this project I have also used the openai API with GPT-3.5 to classify articles. The data is of course not published and only used for research but you can check out the code.
+- My [current project](https://github.com/jasminskoenig/constitutional-regression-advanced) shows some of my most up-to-date skills in data wrangling and statistical analysis in R. In these papers, we analyze the effects of populists in power on courts and constitutions across countries in Europe and Latin America. It's a co-authored paper but in the current state all code is written by me.
+- My latest [scraping project in Python](https://github.com/jasminskoenig/standard_clean) assembled all articles mentioning the Austrian justice system in the newspaper Der Standard. In this project I have also used the openai API with GPT-3.5 to classify articles. The data is of course not published and only used for research but you can check out the code.
 - The [visualization code](https://observablehq.com/@jasminsworkspace/constitutional-regression) for Tilko's and my [The Loop Blog](https://theloop.ecpr.eu/populists-in-power-constitutional-change-and-democratic-backsliding/) is on Observable. The data wrangling was done in [cross-country project](https://github.com/jasminskoenig/constitutional-regression-advanced).
 
 **If you are here because you are looking for replication files**
